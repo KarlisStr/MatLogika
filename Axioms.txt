@@ -1,0 +1,15 @@
+
+[L1 – L11; MP] noklāj visu, ja Jums nav kvantoru.
+Modus Ponens: Ja ir pierādīts (patiess) B→C un B, tad no tā seko C. Tas ir mūsu izveduma
+likums.
+L1: B→(C→B)
+L2: (B→(C→D))→((B→C)→(B→D))
+L3: B∧C→B
+L4: B∧C→C
+L5: B→(C→B∧C)
+L6: B→B∨C
+L7: C→B∨C
+L8: (B→D)→((C→D)→(B∨C→D))
+L9: (B→C)→((B→¬C)→¬B)
+L10: ¬B→(B→C)
+L11: B∨¬B
